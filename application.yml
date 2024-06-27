@@ -7,3 +7,6 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+
+jwt:
+ secret: RgzYapeUx670lKf8qv1kjsuxs/nc2EnS2rQmtaUkIlY=
